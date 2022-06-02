@@ -54,10 +54,3 @@ body {
 .card.flip{
     transform: rotateY(180deg);
 }
-
-@media (max-width: 500px){
-    .card {
-        display: flex;
-        flex-direction: column;
-    }
-}
